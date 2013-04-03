@@ -1,6 +1,21 @@
 /**
  * @brief Userspace application for I2C communication 
  		  Copyright (C) 2013 Andrei Danaila, All Rights Reserved
+		  				<mailto: adanaila >at< ctrlinux[.]com>
+
+	This file is part of i2c_app.
+
+    i2c_app is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, version 2.
+
+    i2c_app is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with i2c_app.  If not, see <http://www.gnu.org/licenses/>.
 */
 #include <unistd.h>
 #include <sys/types.h>
